@@ -1,4 +1,5 @@
-<style>
+<style 
+    type='text/css'>
         .img {
             width: 100%;
             max-width: 48px;
@@ -51,6 +52,59 @@
 
 >  Основные
 
+<table>
+<tr>
+    <td>
+        <a width='48' height='48'  href="#maksimbuyanov-stack">
+            <img width='48' height='48'  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>
+        <span>JavaScript</span>
+    </td>
+    <td>
+        <a width='48' height='48' href="#maksimbuyanov-stack"  >
+            <img width='48' height='48' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        </a>
+   <br>
+        <span>TypeScript</span>
+    </td>
+    <td >
+        <a width='48' height='48' href="#maksimbuyanov-stack"  >
+            <img width='48' height='48' src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" />
+        </a>
+   <br>
+        <span>Figma</span>
+    </td>
+    <td >
+        <a width='48' height='48' href="#maksimbuyanov-stack" >
+            <img width='48' height='48' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" />
+        </a>
+   <br>
+        <span>Git</span>
+    </td>
+    <td >
+        <a width='48' height='48' href="#maksimbuyanov-stack" >
+            <img width='48' height='48' src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" alt="github" />
+        </a>
+   <br>
+        <span>Github</span>
+    </td>
+    <td >
+        <a width='48' height='48' href="#maksimbuyanov-stack" >
+            <img width='48' height='48' src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" alt="yarn" />
+        </a>
+   <br>
+        <span>Yarn</span>
+    </td>
+    <td >
+        <a width='48' height='48' href="#maksimbuyanov-stack" >
+            <img width='48' height='48' src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" alt="npm" />
+        </a>
+   <br>
+        <span>Npm</span>
+    </td>
+</tr>
+</table>
 <section class='grid'>
     <div class="cell">
         <a class='img-wrapper' href="#maksimbuyanov-stack">
