@@ -164,7 +164,7 @@
     </td>
     <td align="center">
         <a width='48' height='48' href="#maksimbuyanov-stack" >
-            <img width='48' height='48' src="https://feature-sliced.design/img/brand/logo-primary.png"  alt="FutureSliced" />
+            <img width='48' height='48' src="https://feature-sliced.design/img/brand/logo-square.png"  alt="FutureSliced" />
         </a>
         <br>Future Sliced
     </td>
@@ -195,7 +195,7 @@
 <tr>
     <td align="center">
         <a width='48' height='48' href="#maksimbuyanov-stack">
-            <img width='48' height='48' src="	https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/90px-React-icon.svg.png"  alt="React" />
+            <img width='48' height='48' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/90px-React-icon.svg.png"  alt="React" />
         </a>
         <br>React JS
     </td>
