@@ -77,8 +77,7 @@
 <a href="#maksimbuyanov-title">
   <img src="https://github-readme-stats.vercel.app/api?username=maksimbuyanov&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="maksimbuyanov" align="right" />
 </a>
-<!-- ![](https://komarev.com/ghpvc/?username=maksimbuyanov) -->
-<img src="https://komarev.com/ghpvc/?username=maksimbuyanov" alt="maksimbuyanov" align="left" />
+
 
 - :fire: &nbsp;Я разрабатываю веб приложения на **Javascript** и **Typescript**
 - :airplane: &nbsp;По любым вопросам пишите мне в **[Telegram](https://t.me/maksimbuyanov)**
@@ -288,3 +287,5 @@
 - :airplane: &nbsp;**[Telegram](https://t.me/maksimbuyanov)**
 - :mailbox: &nbsp; <a href="mailto:maksim.buyanov@gmail.com">**Gmail**</a>
 <br>
+<!-- ![](https://komarev.com/ghpvc/?username=maksimbuyanov) -->
+<img src="https://komarev.com/ghpvc/?username=maksimbuyanov" alt="maksimbuyanov" align="left" />
